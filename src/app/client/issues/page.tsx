@@ -1,4 +1,4 @@
-/*"use client";
+"use client";
 
 import { AlertTriangle } from "lucide-react";
 import PageContainer from "@/src/components/pageContainer";
@@ -53,4 +53,5 @@ export default function ClientIssues() {
       </PageContainer>
     </div>
   );
-}*/
+}
+
